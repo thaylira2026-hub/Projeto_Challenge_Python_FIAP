@@ -1,0 +1,21 @@
+{
+  "usuarios": {
+    "Thays Lira": "RM568799",
+    "Bianca Pereira": "RM571077",
+    "Maria Eduarda Cavallari": "RM570462",
+    "Isabelle Souza": "RM569370",
+    "thay": "20"
+  },
+  "perfis": {
+    "thay": {
+      "nome": "thay",
+      "pontos": 15,
+      "animais_ajudados": 1,
+      "historico": [
+        "Missão 'Assistir vídeo educativo sobre pets' concluída (+10 pts)",
+        "Doou 5 pts para 'Resgate Pet'",
+        "Missão 'Curtir posts da comunidade' concluída (+10 pts)"
+      ]
+    }
+  }
+}

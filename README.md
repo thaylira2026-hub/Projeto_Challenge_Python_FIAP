@@ -106,7 +106,7 @@ Apresentação dos objetivos, justificativa e funcionalidades da solução:
 ## 👥 Equipe
 
 | Nome 
-|---|---|
+|---|
 | Bianca Pereira da Silva
 | Isabelle Souza Lima Pires Araújo 
 | Maria Eduarda Cavallari Quarelo

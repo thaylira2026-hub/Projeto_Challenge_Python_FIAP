@@ -107,10 +107,10 @@ Apresentação dos objetivos, justificativa e funcionalidades da solução:
 
 | Nome | RM |
 |---|---|
-| Bianca Pereira da Silva | 571077 |
-| Isabelle Souza Lima Pires Araújo | 569370 |
-| Maria Eduarda Cavallari Quarelo | 570462 |
-| Thays Lira de Oliveira | 568799 |
+| Bianca Pereira da Silva
+| Isabelle Souza Lima Pires Araújo 
+| Maria Eduarda Cavallari Quarelo
+| Thays Lira de Oliveira 
 
 ---
 
